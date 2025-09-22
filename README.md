@@ -1,1 +1,1 @@
-# A2.1-Regresi-n-log-stica-y-validaci-n-cruzada
+# A2.1-Regresion logistica y validacion cruzada
